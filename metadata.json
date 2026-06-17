@@ -1,0 +1,6 @@
+{
+  "name": "ウッディレストラン",
+  "description": "びっくりドンキー風のウッディで温かみのあるレストランを舞台にした、配膳・片付け・テーブル拭き・レジ打ちのパタパタお仕事アクションゲームです！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
